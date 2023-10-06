@@ -6,3 +6,5 @@ ceci est une modif
 modif x2
 
 ceci est une autremodif
+
+clodoman se déplace
